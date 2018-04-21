@@ -12,10 +12,6 @@ module.exports = {
     link: [{ rel: "icon", type: "image/x-icon", href: "/favicon.ico" }]
   },
 
-  router: {
-    base: "/app/"
-  },
-
   /*
   ** Customize the progress bar color
   */
