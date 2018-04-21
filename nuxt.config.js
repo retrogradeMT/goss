@@ -13,7 +13,7 @@ module.exports = {
   },
 
   router: {
-    base: "/goss/"
+    base: "/app/"
   },
 
   /*
